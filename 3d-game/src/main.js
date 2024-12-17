@@ -1,10 +1,3 @@
-/* 
-  TO DO:
-  - Add score depending on interval
-  - Add icon
-  - Add music
-*/
-
 import * as THREE from "three";
 import { Box } from "./classes/Box.js";
 import { Player } from "./classes/Player.js";
